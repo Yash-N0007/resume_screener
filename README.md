@@ -84,7 +84,6 @@ A clean UI for uploading multiple resumes at once:
 - Multi-file upload  
 - Displays results as a dataframe  
 - Allows CSV download  
-  :contentReference[oaicite:8]{index=8}
 
 ---
 
