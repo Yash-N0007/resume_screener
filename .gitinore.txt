@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+
+# Gradio local files
+.gradio/
+
+# Outputs / artifacts
+outputs/
+
+# Local test resumes (comment/remove if you want to include fake samples)
+resumes/
+
+# OS junk
+.DS_Store
+Thumbs.db
+

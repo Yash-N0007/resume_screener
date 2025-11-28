@@ -1,0 +1,1328 @@
+
+----- 2025-10-25 15:07:05.575677 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist with Python, SQL, data visualization, and machine learning. Build predictive models and communicate insights.\n",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 25.0,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 38.08,
+      "cross_encoder_%": 0.01
+    },
+    "context_excerpt": "Developed a backend system with Python, Flask, and MySQL to integrate with a PLC-controlled robotic; Implemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes; & Publications; Agile Collaboration, Communication, Research & Analysis; Certifications & Publications; Content Writing; Cross-Functional Teamwork Achievements and Positions of Responsibility; Finalist \u2013 Cyber Cypher 3; Hospital Management System; IET Committee; International Conference on Computer Science and Communication Engineering; Java & Python; Project Management, Technical Documentation; formal communications & campaigns; & Publications; Agile Collaboration, Communication, Research & Analysis; Certifications & Publications; Content Writing; Cross-Functional Teamwork Achievements and Positions of Responsibility; Hospital Management System; IET Committee; International Conference on Computer Science and Communication Engineering; Java & Python; Project Management, Technical Documentation; Publications__________________________________________________; formal communications & campaigns; Hackathon (2023); challenges in Java & Python, progressing through multiple elimination rounds"
+  }
+}
+
+----- 2025-10-25 15:07:16.182487 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist with Python, SQL, data visualization, and machine learning. Build predictive models and communicate insights.\n",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, sql, statistics",
+      "skills_coverage_%": 87.5,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 42.09,
+      "cross_encoder_%": 30.55
+    },
+    "context_excerpt": "Built a Flask backend API, tested with Postman for file uploads and route validation; Built a Streamlit; Built a full-stack web application to track daily habits and predict productivity scores using Machine Learning; Developed a FastAPI backend for model inference and analytics, and a Streamlit frontend for interactive; Developed a computer vision pipeline to automate detection, classification, and counting of internal components; Internships; Project \u2013 CardioAssist AI Multi-Modal Decision Support System|; Projects; & Team Management; Communication & Collaboration; Led a team of 70+ members, looking after the operations, organizing events; Pune Assisted; RESQ Charitable Trust; Secretary, Analytika \u2013 Data Science Club, MPSTME, Mumbai; Time Management; & Team Management; Communication & Collaboration; Pune Assisted; RESQ Charitable Trust; Time Management"
+  }
+}
+
+----- 2025-10-25 15:07:20.768009 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist with Python, SQL, data visualization, and machine learning. Build predictive models and communicate insights.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python",
+      "skills_coverage_%": 25.0,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 42.31,
+      "cross_encoder_%": 0.01
+    },
+    "context_excerpt": "Built a GUI-based application to hash and analyze passwords using the MD5 algorithm with multithreading for; Built a hospital management platform with appointment scheduling and pharmacy locator integration; Built a mobile app integrating EasyOCR and Gemini LLM to extract, annotate, and provide multilingual; Built a real-time object detection system to identify potholes in road images using the YOLOv8 deep learning; Designed a real-time collaborative document editor with multi-user support and autosave, inspired by tools like; Designed and implemented an internal form-based application to streamline auditing processes; Developed a REST API using Spring Boot for internal audit systems; Developed a custom algorithm for secure string encryption and decryption using mathematical transformations; Internships_______________________________________________________________; Projects__________________________________________________________________; Achievements and Positions of Responsibility; Content Writing; Finalist \u2013 Cyber Cypher 3; ICCSCE Publication; Securing the Software Development Lifecycle; Achievements and Positions of Responsibility; Content Writing; ICCSCE Publication; Publica"
+  }
+}
+
+----- 2025-10-25 15:53:42.586403 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 25.0,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 30.74,
+      "cross_encoder_%": 0.02
+    },
+    "context_excerpt": "finalist \u2013 cyber cypher 3; head of content writing \u2013 iet committee, nmims (2023\u201324); headed formal communications & campaigns, boosting event participation by 25%; leadership, agile collaboration, communication, research & analysis, problem solving, ui/ux; responsibility____________________________________; certifications & publications__________________________________________________; challenges in java & python, progressing through multiple elimination rounds; hackathon (2023)"
+  }
+}
+
+----- 2025-10-25 15:53:57.710373 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, sql, statistics",
+      "skills_coverage_%": 87.5,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 32.22,
+      "cross_encoder_%": 0.67
+    },
+    "context_excerpt": "leadership & team management, strategic thinking, communication & collaboration, adaptability,; responsibility; certifications; coursera (2024); coursera (2025)"
+  }
+}
+
+----- 2025-10-25 15:54:07.046514 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 37.5,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 34.2,
+      "cross_encoder_%": 0.0
+    },
+    "context_excerpt": "finalist \u2013 cyber cypher 3; head of content writing \u2013 iet mpstme (2024\u20132025); leadership and teamwork skills, content development, cross functional coordination, problem ; responsibility___________________________________; certifications &publications_________________________________________________; publication (may 2025) \u2013 \u201csecuring the software development lifecycle (sdlc) in cloud; competitions, and outreach campaigns; hackathon (january, 2024)"
+  }
+}
+
+----- 2025-10-25 16:09:20.663643 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 25.0,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 30.74,
+      "cross_encoder_%": 0.02
+    },
+    "rag_context": "nalysis, Problem-Solving, UI/UX \nDesign, Project Management, Technical Documentation, Cross-Functional Teamwork \n\nAchievements and Positions of Responsibility____________________________________ \n\u2022 Head of Content Writing \u2013 IET Committee, NMIMS (2023\u201324) \nSpearheaded formal communications & campaigns, boosting event participation by 25%. \n\u2022 Finalist \u2013 Cyber Cypher 3.0 Hackathon (2023) \nDesigned a full-stack Hospital Management System with integrated pharmacy locator (Google Maps API) during \nan 18-hour sprint. \n\u2022 Advanced Participant \u2013 Semicode Hackathon (2023) \nSolved competitive algorithmic challenges in Java & Python, progressing through multiple elimination rounds. \n\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\f g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communicati"
+  }
+}
+
+----- 2025-10-25 16:09:42.282998 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 12.5,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 20.05,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-10-25 16:09:51.148552 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, sql, statistics",
+      "skills_coverage_%": 87.5,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 32.22,
+      "cross_encoder_%": 0.67
+    },
+    "rag_context": "Analytics: Supervised & Unsupervised Learning, Model Development & Evaluation, Statistical \nAnalysis, Data Visualization, scikit-learn, XGBoost, SHAP, Tableau, Computer Vision (Template Matching, Contour \nDetection, NMS, IoU), Big Data Basics (Hadoop) \n- Deployment & Tools: FastAPI, Flask, Streamlit, Docker, Render, Postman, Jupyter Notebook, VS Code \n- Soft Skills: Leadership & Team Management, Strategic Thinking, Communication & Collaboration, Adaptability, \nTime Management, Problem Solving \n\nPositions of Responsibility \n\n-Secretary, Analytika \u2013 Data Science Club, MPSTME, Mumbai \nLed a team of 70+ members, looking after the operations, organizing events. \n-Rescue Volunteer, RESQ Charitable Trust (Animal Rescue Centre), Pune \nAssisted in emergency rescue operations, animal care, and rehab g to identify 40\u201350 visually similar parts per box. Built a Streamlit- \nbased UI to display bounding boxes, part counts, and dynamic summary tables. Achieved near-100% accuracy \nunder ideal conditions, significantly reducing inspection time and enhancing traceability and operational \nefficiency. \n\n(May 25 \u2013 July 25) \n\nCertifications \n\n-Databases and SQL for Data Science with Python (IBM) \u2013 Coursera (2025) \n-Advanced Data Visualization with Tableau \u2013 Coursera (2025) \n-Data Visualization with Tableau \u2013 Coursera (2025) \n-Machine Learning Specialization (IBM) \u2013 Coursera (2024) \n\nCORE SKILLS \n\n-Programming & Data Handling: Python, SQL, Pandas, NumPy, Data Cleaning & Transformation, CSV, Excel, \n"
+  }
+}
+
+----- 2025-10-25 16:10:02.915796 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 37.5,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 34.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "dicine details, reducing manual lookup time by ~40%. \nPothole Detection using YOLOv8 - November, 2024 \nBuilt a real-time object detection system to identify potholes in road images using the YOLOv8 deep learning \nmodel, aimed at assisting smart city infrastructure and road maintenance. \nMultithreaded Password Hashing Tool - October, 2024 \nBuilt a GUI-based application to hash and analyze passwords using the MD5 algorithm with multithreading for \nperformance optimization.  \nCustom String Encryption & Decryption Algorithm - June, 2024 \nDeveloped a custom algorithm for secure string encryption and decryption using mathematical transformations.  \n\nInternships_______________________________________________________________ \nIndian Space Research Organisation (June\u2013July, 2025) \nAI Intern \n\u2022 Contr ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, Pos"
+  }
+}
+
+----- 2025-10-25 16:31:19.612389 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 25.0,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 30.74,
+      "cross_encoder_%": 0.02
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-10-25 16:31:34.767082 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, sql, statistics",
+      "skills_coverage_%": 87.5,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 32.22,
+      "cross_encoder_%": 0.67
+    },
+    "rag_context": "Analytics: Supervised & Unsupervised Learning, Model Development & Evaluation, Statistical \nAnalysis, Data Visualization, scikit-learn, XGBoost, SHAP, Tableau, Computer Vision (Template Matching, Contour \nDetection, NMS, IoU), Big Data Basics (Hadoop) \n- Deployment & Tools: FastAPI, Flask, Streamlit, Docker, Render, Postman, Jupyter Notebook, VS Code \n- Soft Skills: Leadership & Team Management, Strategic Thinking, Communication & Collaboration, Adaptability, \nTime Management, Problem Solving \n\nPositions of Responsibility \n\n-Secretary, Analytika \u2013 Data Science Club, MPSTME, Mumbai \nLed a team of 70+ members, looking after the operations, organizing events. \n-Rescue Volunteer, RESQ Charitable Trust (Animal Rescue Centre), Pune \nAssisted in emergency rescue operations, animal care, and rehab g to identify 40\u201350 visually similar parts per box. Built a Streamlit- \nbased UI to display bounding boxes, part counts, and dynamic summary tables. Achieved near-100% accuracy \nunder ideal conditions, significantly reducing inspection time and enhancing traceability and operational \nefficiency. \n\n(May 25 \u2013 July 25) \n\nCertifications \n\n-Databases and SQL for Data Science with Python (IBM) \u2013 Coursera (2025) \n-Advanced Data Visualization with Tableau \u2013 Coursera (2025) \n-Data Visualization with Tableau \u2013 Coursera (2025) \n-Machine Learning Specialization (IBM) \u2013 Coursera (2024) \n\nCORE SKILLS \n\n-Programming & Data Handling: Python, SQL, Pandas, NumPy, Data Cleaning & Transformation, CSV, Excel, \n"
+  }
+}
+
+----- 2025-10-25 16:31:44.422010 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 37.5,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 34.2,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2020 \n\n2022 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-10-25 16:40:02.261691 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 25.0,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 30.74,
+      "cross_encoder_%": 0.02
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-10-25 16:40:20.537471 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 12.5,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 20.05,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-10-25 16:40:33.160430 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, sql, statistics",
+      "skills_coverage_%": 87.5,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 32.22,
+      "cross_encoder_%": 0.67
+    },
+    "rag_context": "Analytics: Supervised & Unsupervised Learning, Model Development & Evaluation, Statistical \nAnalysis, Data Visualization, scikit-learn, XGBoost, SHAP, Tableau, Computer Vision (Template Matching, Contour \nDetection, NMS, IoU), Big Data Basics (Hadoop) \n- Deployment & Tools: FastAPI, Flask, Streamlit, Docker, Render, Postman, Jupyter Notebook, VS Code \n- Soft Skills: Leadership & Team Management, Strategic Thinking, Communication & Collaboration, Adaptability, \nTime Management, Problem Solving \n\nPositions of Responsibility \n\n-Secretary, Analytika \u2013 Data Science Club, MPSTME, Mumbai \nLed a team of 70+ members, looking after the operations, organizing events. \n-Rescue Volunteer, RESQ Charitable Trust (Animal Rescue Centre), Pune \nAssisted in emergency rescue operations, animal care, and rehab g to identify 40\u201350 visually similar parts per box. Built a Streamlit- \nbased UI to display bounding boxes, part counts, and dynamic summary tables. Achieved near-100% accuracy \nunder ideal conditions, significantly reducing inspection time and enhancing traceability and operational \nefficiency. \n\n(May 25 \u2013 July 25) \n\nCertifications \n\n-Databases and SQL for Data Science with Python (IBM) \u2013 Coursera (2025) \n-Advanced Data Visualization with Tableau \u2013 Coursera (2025) \n-Data Visualization with Tableau \u2013 Coursera (2025) \n-Machine Learning Specialization (IBM) \u2013 Coursera (2024) \n\nCORE SKILLS \n\n-Programming & Data Handling: Python, SQL, Pandas, NumPy, Data Cleaning & Transformation, CSV, Excel, \n"
+  }
+}
+
+----- 2025-10-25 16:40:48.377593 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 37.5,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 34.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-10-25 21:30:05.530356 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 40.49,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-10-25 21:30:26.974075 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 25.0,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 30.74,
+      "cross_encoder_%": 0.02
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-10-25 21:30:37.172801 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, sql, statistics",
+      "skills_coverage_%": 87.5,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 32.22,
+      "cross_encoder_%": 0.67
+    },
+    "rag_context": "Analytics: Supervised & Unsupervised Learning, Model Development & Evaluation, Statistical \nAnalysis, Data Visualization, scikit-learn, XGBoost, SHAP, Tableau, Computer Vision (Template Matching, Contour \nDetection, NMS, IoU), Big Data Basics (Hadoop) \n- Deployment & Tools: FastAPI, Flask, Streamlit, Docker, Render, Postman, Jupyter Notebook, VS Code \n- Soft Skills: Leadership & Team Management, Strategic Thinking, Communication & Collaboration, Adaptability, \nTime Management, Problem Solving \n\nPositions of Responsibility \n\n-Secretary, Analytika \u2013 Data Science Club, MPSTME, Mumbai \nLed a team of 70+ members, looking after the operations, organizing events. \n-Rescue Volunteer, RESQ Charitable Trust (Animal Rescue Centre), Pune \nAssisted in emergency rescue operations, animal care, and rehab g to identify 40\u201350 visually similar parts per box. Built a Streamlit- \nbased UI to display bounding boxes, part counts, and dynamic summary tables. Achieved near-100% accuracy \nunder ideal conditions, significantly reducing inspection time and enhancing traceability and operational \nefficiency. \n\n(May 25 \u2013 July 25) \n\nCertifications \n\n-Databases and SQL for Data Science with Python (IBM) \u2013 Coursera (2025) \n-Advanced Data Visualization with Tableau \u2013 Coursera (2025) \n-Data Visualization with Tableau \u2013 Coursera (2025) \n-Machine Learning Specialization (IBM) \u2013 Coursera (2024) \n\nCORE SKILLS \n\n-Programming & Data Handling: Python, SQL, Pandas, NumPy, Data Cleaning & Transformation, CSV, Excel, \n"
+  }
+}
+
+----- 2025-10-25 21:30:49.124822 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 37.5,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 34.2,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2020 \n\n2022 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-10-25 21:41:23.609497 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 40.49,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-10-25 21:41:39.301505 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, sql, statistics",
+      "skills_coverage_%": 87.5,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 32.22,
+      "cross_encoder_%": 0.67
+    },
+    "rag_context": "Analytics: Supervised & Unsupervised Learning, Model Development & Evaluation, Statistical \nAnalysis, Data Visualization, scikit-learn, XGBoost, SHAP, Tableau, Computer Vision (Template Matching, Contour \nDetection, NMS, IoU), Big Data Basics (Hadoop) \n- Deployment & Tools: FastAPI, Flask, Streamlit, Docker, Render, Postman, Jupyter Notebook, VS Code \n- Soft Skills: Leadership & Team Management, Strategic Thinking, Communication & Collaboration, Adaptability, \nTime Management, Problem Solving \n\nPositions of Responsibility \n\n-Secretary, Analytika \u2013 Data Science Club, MPSTME, Mumbai \nLed a team of 70+ members, looking after the operations, organizing events. \n-Rescue Volunteer, RESQ Charitable Trust (Animal Rescue Centre), Pune \nAssisted in emergency rescue operations, animal care, and rehab g to identify 40\u201350 visually similar parts per box. Built a Streamlit- \nbased UI to display bounding boxes, part counts, and dynamic summary tables. Achieved near-100% accuracy \nunder ideal conditions, significantly reducing inspection time and enhancing traceability and operational \nefficiency. \n\n(May 25 \u2013 July 25) \n\nCertifications \n\n-Databases and SQL for Data Science with Python (IBM) \u2013 Coursera (2025) \n-Advanced Data Visualization with Tableau \u2013 Coursera (2025) \n-Data Visualization with Tableau \u2013 Coursera (2025) \n-Machine Learning Specialization (IBM) \u2013 Coursera (2024) \n\nCORE SKILLS \n\n-Programming & Data Handling: Python, SQL, Pandas, NumPy, Data Cleaning & Transformation, CSV, Excel, \n"
+  }
+}
+
+----- 2025-10-25 21:41:48.847985 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist with experience in Python, SQL, data visualization, and machine learning. The candidate should be able to clean datasets, build predictive models, and communicate insights effectively.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 37.5,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 34.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-11-06 10:15:13.956869 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.\n",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 44.8,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-11-06 10:15:34.490162 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.\n",
+    "rule_features": {
+      "matching_skills": "python, scikit-learn, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.74,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-11-06 10:15:45.026383 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.\n",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 20.57,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 10:15:59.602728 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.\n",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, scikit-learn, sql",
+      "skills_coverage_%": 77.8,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 31.94,
+      "cross_encoder_%": 3.73
+    },
+    "rag_context": "Analytics: Supervised & Unsupervised Learning, Model Development & Evaluation, Statistical \nAnalysis, Data Visualization, scikit-learn, XGBoost, SHAP, Tableau, Computer Vision (Template Matching, Contour \nDetection, NMS, IoU), Big Data Basics (Hadoop) \n- Deployment & Tools: FastAPI, Flask, Streamlit, Docker, Render, Postman, Jupyter Notebook, VS Code \n- Soft Skills: Leadership & Team Management, Strategic Thinking, Communication & Collaboration, Adaptability, \nTime Management, Problem Solving \n\nPositions of Responsibility \n\n-Secretary, Analytika \u2013 Data Science Club, MPSTME, Mumbai \nLed a team of 70+ members, looking after the operations, organizing events. \n-Rescue Volunteer, RESQ Charitable Trust (Animal Rescue Centre), Pune \nAssisted in emergency rescue operations, animal care, and rehab g to identify 40\u201350 visually similar parts per box. Built a Streamlit- \nbased UI to display bounding boxes, part counts, and dynamic summary tables. Achieved near-100% accuracy \nunder ideal conditions, significantly reducing inspection time and enhancing traceability and operational \nefficiency. \n\n(May 25 \u2013 July 25) \n\nCertifications \n\n-Databases and SQL for Data Science with Python (IBM) \u2013 Coursera (2025) \n-Advanced Data Visualization with Tableau \u2013 Coursera (2025) \n-Data Visualization with Tableau \u2013 Coursera (2025) \n-Machine Learning Specialization (IBM) \u2013 Coursera (2024) \n\nCORE SKILLS \n\n-Programming & Data Handling: Python, SQL, Pandas, NumPy, Data Cleaning & Transformation, CSV, Excel, \n"
+  }
+}
+
+----- 2025-11-06 10:30:16.530880 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 16.88,
+      "cross_encoder_%": 0.21
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-11-06 10:30:36.446068 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.\n",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 44.8,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-11-06 10:31:53.540193 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.\n",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 44.8,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-11-06 10:32:50.926884 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 44.8,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-11-06 10:37:25.303685 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.\n",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 44.8,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-11-06 10:42:08.772719 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.",
+    "rule_features": {
+      "matching_skills": "python, scikit-learn, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.74,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-11-06 10:43:27.141071 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.",
+    "rule_features": {
+      "matching_skills": "python, scikit-learn, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.74,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-11-06 10:43:43.859833 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.",
+    "rule_features": {
+      "matching_skills": "python, scikit-learn, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.74,
+      "cross_encoder_%": 0.03
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-11-06 10:43:55.640976 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We are looking for a Data Scientist skilled in Python, SQL, and Machine Learning.\nResponsibilities include building predictive models, performing data cleaning, and using libraries like Pandas, NumPy, and Scikit-learn.\nKnowledge of Deep Learning, NLP, and data visualization (Matplotlib/Seaborn) is a plus.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 20.57,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:04:25.982228 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "",
+      "skills_coverage_%": 0.0,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 45.51,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "s and created positive educational experiences and processes.\n\nGoogle - 2022\n\nUX/UI Design Certificate\n\nBitesize UX - 2023\n\nEDUCATION\n\nBachelor of Science, Education\n\nKeene State College, 05/2015\n\n\f 22\nTapRm, Brooklyn, NY\n\nInternal Communications\n\nMobile App Development\n\nLanding Page Optimization\n\nMockups and Prototypes\n\nUsability Testing\n\nIntegrating User Feedback\n\nMonitored customer feedback to identify areas of improvement in customer experience\n\nand reduced process inconsistencies.\n\nCERTIFICATES\n\nCommunicated at a high level with e-commerce partner accounts and provided assistance\n\nUX Design Professional Certificate\n\nto their customers.\n\nVisual Designer, 07/2020 - 02/2023\nFreelance\n\nStoryboarded and illustrated 7 published picture books.\n\nCreated visual designs, illustrations, and typography using Procreate and Adobe.\n\nTeacher, 09/2015 - 07/2020\nCambridge Preschool of the Arts, Cambridge, MA\n\nDesigned and taught Reggio Emilia lessons that fostered cognitive development in\n\nstudent line\n\ntask completion, and allow staff to focus on high-priority tasks.\n\nCreated digital design deliverables such as wireframes, storyboards, mockups,\n\nprototypes, and sitemaps with Figma.\n\nSKILLS\n\nUX/UI Design\n\nIndustry Standards\n\nInterface Design\n\nWeb App Development\n\nInterface Design\n\nCustomer Needs Assessment\n\nCollaborated with cross-functional teams, including Product Managers, Developers,\n\nData Validation\n\nCustomer Experience, and Stakeholders to review digital designs.\n\nPlanned and design"
+  }
+}
+
+----- 2025-11-06 11:04:41.082976 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python, scikit-learn, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 34.34,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-11-06 11:04:47.974250 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "data visualization, machine learning, numpy, pandas, python, scikit-learn, sql",
+      "skills_coverage_%": 77.8,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 33.84,
+      "cross_encoder_%": 17.2
+    },
+    "rag_context": "Analytics: Supervised & Unsupervised Learning, Model Development & Evaluation, Statistical \nAnalysis, Data Visualization, scikit-learn, XGBoost, SHAP, Tableau, Computer Vision (Template Matching, Contour \nDetection, NMS, IoU), Big Data Basics (Hadoop) \n- Deployment & Tools: FastAPI, Flask, Streamlit, Docker, Render, Postman, Jupyter Notebook, VS Code \n- Soft Skills: Leadership & Team Management, Strategic Thinking, Communication & Collaboration, Adaptability, \nTime Management, Problem Solving \n\nPositions of Responsibility \n\n-Secretary, Analytika \u2013 Data Science Club, MPSTME, Mumbai \nLed a team of 70+ members, looking after the operations, organizing events. \n-Rescue Volunteer, RESQ Charitable Trust (Animal Rescue Centre), Pune \nAssisted in emergency rescue operations, animal care, and rehab g to identify 40\u201350 visually similar parts per box. Built a Streamlit- \nbased UI to display bounding boxes, part counts, and dynamic summary tables. Achieved near-100% accuracy \nunder ideal conditions, significantly reducing inspection time and enhancing traceability and operational \nefficiency. \n\n(May 25 \u2013 July 25) \n\nCertifications \n\n-Databases and SQL for Data Science with Python (IBM) \u2013 Coursera (2025) \n-Advanced Data Visualization with Tableau \u2013 Coursera (2025) \n-Data Visualization with Tableau \u2013 Coursera (2025) \n-Machine Learning Specialization (IBM) \u2013 Coursera (2024) \n\nCORE SKILLS \n\n-Programming & Data Handling: Python, SQL, Pandas, NumPy, Data Cleaning & Transformation, CSV, Excel, \n"
+  }
+}
+
+----- 2025-11-06 11:04:55.621560 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 36.21,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-11-06 11:10:36.666391 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python, scikit-learn, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 34.34,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "g manual errors by 35%.  \n\u27a2 \nImplemented grid-mapping algorithms to manage real-time inventory across 600 storage boxes. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, Java, Kotlin, SQL, TensorFlow, PyTorch, Scikit-learn, OpenCV, MediaPipe, Flask, Node.js, \nFirebase, MongoDB, Android Studio, Git, REST APIs, Docker, CI/CD Pipelines, Cloud (AWS/GCP) \nSoft Skills: Team Leadership, Agile Collaboration, Communication, Research & A ATHARVA DHURI \nBTech Computer Engineering Batch 2026 \nDate of Birth: 06/08/2004 \n\n____________________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.30/4 \nPace Junior Science College \nHSC: 75.17 % \nThakur Vidya Mandir High School and Junior College \nSSC: 95.80 % \n\n2022 - 2026 \n\n                2022 \n\n2020 \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \n\n\u27a2  Engineered a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. \n\u27a2  Ensured zero overwrite errors during multi-user collaboratio"
+  }
+}
+
+----- 2025-11-06 11:10:51.049496 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:10:59.145680 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 36.77,
+      "cross_encoder_%": 0.04
+    },
+    "rag_context": "_________________________________________ \nResearch Paper -  \u201cBrain Tumor Detection using VGG-16 and Segmentation using U-Net architecture\u201d, (July            \n2025, Submitted to ICDTBESDVB 2025 IIT Dhanbad Conference) \nCertification -  Machine Learning Specialization Course by DeepLearning.AI and Stanford Online - 2025 \n\nCORE SKILLS____________________________________________________________ \nTechnical Skills:    \n\nLanguages: Python, Java, JavaScript ,React  \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication,     \n\n     Team Collaboration, Adaptability & Learni RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004                                                                                                                                                              \n\n_______________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.81/4 \nAlpha Junior College of Science and Commerce  \nHSC: 80  \nBombay Cambridge International School  \nIGCSE: 87.5 \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects________________________________________________________________ \nLenDen Voicebot \u2013 2025 \n         \u2022 Built a multilingual voicebot for P2P lending using AWS Lex, "
+  }
+}
+
+----- 2025-11-06 11:11:09.853307 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 36.21,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-11-06 11:16:50.275824 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 26.65,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "ference on Computer Science and Communication Engineering, May 2025.\n\nCORE SKILLS_______________________________________________________________\nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, Unity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git\nSoft Skills: Team Leadership, Communication, Research & Analysis, Content Writing, Problem-Solving, UI/UX Design Thinking, Collaboration, Project Management, Rapid Prototyping, Technical Documentation\n\nAchievements and Positions of Responsibility____________________________________\n\u2022 Head of Content Writing \u2013 IET Committee, NMIMS (2023 \u2013 2024)\nLed the content team to create formal communications and promotional material, significantly increasing participation and  Education\t____________________________________________________________________________\nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026)\nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022)\nThakur Vidya Mandir High School, Mumbai | SSC \u2013 95.80% (2020)\n\nProjects__________________________________________________________________\n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025\nDeveloped a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. Implemented conflict-free editing, real-time collaboration, and user presence tracking enabling 5+ users to collaborate seamlessly in real time without data loss.\n\u2022 MediScan \u2013 AI-Based Medicine Info"
+  }
+}
+
+----- 2025-11-06 11:17:03.910390 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:17:14.230830 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 36.77,
+      "cross_encoder_%": 0.04
+    },
+    "rag_context": "_________________________________________ \nResearch Paper -  \u201cBrain Tumor Detection using VGG-16 and Segmentation using U-Net architecture\u201d, (July            \n2025, Submitted to ICDTBESDVB 2025 IIT Dhanbad Conference) \nCertification -  Machine Learning Specialization Course by DeepLearning.AI and Stanford Online - 2025 \n\nCORE SKILLS____________________________________________________________ \nTechnical Skills:    \n\nLanguages: Python, Java, JavaScript ,React  \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication,     \n\n     Team Collaboration, Adaptability & Learni RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004                                                                                                                                                              \n\n_______________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.81/4 \nAlpha Junior College of Science and Commerce  \nHSC: 80  \nBombay Cambridge International School  \nIGCSE: 87.5 \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects________________________________________________________________ \nLenDen Voicebot \u2013 2025 \n         \u2022 Built a multilingual voicebot for P2P lending using AWS Lex, "
+  }
+}
+
+----- 2025-11-06 11:17:22.708364 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 36.21,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-11-06 11:18:10.323963 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 27.16,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "r Science and Communication Engineering, May 2025.\n\nCORE SKILLS_______________________________________________________________\nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, Unity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git\nSoft Skills: Team Leadership, Communication, Research & Analysis, Content Writing, Problem-Solving, UI/UX Design Thinking, Collaboration, Project Management, Rapid Prototyping, Technical Documentation\n\nAchievements and Positions of Responsibility____________________________________\n\u2022 Head of Content Writing \u2013 IET Committee, NMIMS (2023 \u2013 2024)\nLed the content team to create formal communications and promotional material, significantly increasing participation and visibility across  Education\t____________________________________________________________________________\nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026)\nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022)\nAtharva Dhuri, Mumbai | SSC \u2013 95.80% (2020)\n\nProjects__________________________________________________________________\n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025\nDeveloped a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. Implemented conflict-free editing, real-time collaboration, and user presence tracking enabling 5+ users to collaborate seamlessly in real time without data loss.\n\u2022 MediScan \u2013 AI-Based Medicine Information Extractor "
+  }
+}
+
+----- 2025-11-06 11:18:20.101149 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:18:27.609548 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 36.77,
+      "cross_encoder_%": 0.04
+    },
+    "rag_context": "_________________________________________ \nResearch Paper -  \u201cBrain Tumor Detection using VGG-16 and Segmentation using U-Net architecture\u201d, (July            \n2025, Submitted to ICDTBESDVB 2025 IIT Dhanbad Conference) \nCertification -  Machine Learning Specialization Course by DeepLearning.AI and Stanford Online - 2025 \n\nCORE SKILLS____________________________________________________________ \nTechnical Skills:    \n\nLanguages: Python, Java, JavaScript ,React  \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication,     \n\n     Team Collaboration, Adaptability & Learni RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004                                                                                                                                                              \n\n_______________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.81/4 \nAlpha Junior College of Science and Commerce  \nHSC: 80  \nBombay Cambridge International School  \nIGCSE: 87.5 \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects________________________________________________________________ \nLenDen Voicebot \u2013 2025 \n         \u2022 Built a multilingual voicebot for P2P lending using AWS Lex, "
+  }
+}
+
+----- 2025-11-06 11:18:37.758275 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 36.21,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-11-06 11:19:18.905419 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 27.16,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "r Science and Communication Engineering, May 2025.\n\nCORE SKILLS_______________________________________________________________\nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, Unity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git\nSoft Skills: Team Leadership, Communication, Research & Analysis, Content Writing, Problem-Solving, UI/UX Design Thinking, Collaboration, Project Management, Rapid Prototyping, Technical Documentation\n\nAchievements and Positions of Responsibility____________________________________\n\u2022 Head of Content Writing \u2013 IET Committee, NMIMS (2023 \u2013 2024)\nLed the content team to create formal communications and promotional material, significantly increasing participation and visibility across  Education\t____________________________________________________________________________\nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026)\nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022)\nAtharva Dhuri, Mumbai | SSC \u2013 95.80% (2020)\n\nProjects__________________________________________________________________\n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025\nDeveloped a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. Implemented conflict-free editing, real-time collaboration, and user presence tracking enabling 5+ users to collaborate seamlessly in real time without data loss.\n\u2022 MediScan \u2013 AI-Based Medicine Information Extractor "
+  }
+}
+
+----- 2025-11-06 11:19:29.159765 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:19:39.376404 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 36.77,
+      "cross_encoder_%": 0.04
+    },
+    "rag_context": "_________________________________________ \nResearch Paper -  \u201cBrain Tumor Detection using VGG-16 and Segmentation using U-Net architecture\u201d, (July            \n2025, Submitted to ICDTBESDVB 2025 IIT Dhanbad Conference) \nCertification -  Machine Learning Specialization Course by DeepLearning.AI and Stanford Online - 2025 \n\nCORE SKILLS____________________________________________________________ \nTechnical Skills:    \n\nLanguages: Python, Java, JavaScript ,React  \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication,     \n\n     Team Collaboration, Adaptability & Learni RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004                                                                                                                                                              \n\n_______________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.81/4 \nAlpha Junior College of Science and Commerce  \nHSC: 80  \nBombay Cambridge International School  \nIGCSE: 87.5 \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects________________________________________________________________ \nLenDen Voicebot \u2013 2025 \n         \u2022 Built a multilingual voicebot for P2P lending using AWS Lex, "
+  }
+}
+
+----- 2025-11-06 11:19:50.582094 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 36.21,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2020 \n\n2022 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-11-06 11:20:54.440490 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 26.03,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "onference on Computer Science and Communication Engineering, May 2025.\n\nCORE SKILLS_______________________________________________________________\nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, Unity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git\nSoft Skills: Team Leadership, Communication, Research & Analysis, Content Writing, Problem-Solving, UI/UX Design Thinking, Collaboration, Project Management, Rapid Prototyping, Technical Documentation\n\nAchievements and Positions of Responsibility____________________________________\n\u2022 Head of Content Writing \u2013 IET Committee, NMIMS (2023 \u2013 2024)\nLed the content team to create formal communications and promotional material, significantly increasing participation an Education\t____________________________________________________________________________\nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026)\nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022)\nAtharva Dhuri \nThakur Vidyamandir, Mumbai | SSC \u2013 95.80% (2020)\n\nProjects__________________________________________________________________\n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025\nDeveloped a decentralized Google Docs clone using Node.js, Firebase, MongoDB, and Quill.js. Implemented conflict-free editing, real-time collaboration, and user presence tracking enabling 5+ users to collaborate seamlessly in real time without data loss.\n\u2022 MediScan \u2013 AI-Based Medicine In"
+  }
+}
+
+----- 2025-11-06 11:21:05.272946 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:21:13.765009 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 36.77,
+      "cross_encoder_%": 0.04
+    },
+    "rag_context": "_________________________________________ \nResearch Paper -  \u201cBrain Tumor Detection using VGG-16 and Segmentation using U-Net architecture\u201d, (July            \n2025, Submitted to ICDTBESDVB 2025 IIT Dhanbad Conference) \nCertification -  Machine Learning Specialization Course by DeepLearning.AI and Stanford Online - 2025 \n\nCORE SKILLS____________________________________________________________ \nTechnical Skills:    \n\nLanguages: Python, Java, JavaScript ,React  \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication,     \n\n     Team Collaboration, Adaptability & Learni RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004                                                                                                                                                              \n\n_______________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.81/4 \nAlpha Junior College of Science and Commerce  \nHSC: 80  \nBombay Cambridge International School  \nIGCSE: 87.5 \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects________________________________________________________________ \nLenDen Voicebot \u2013 2025 \n         \u2022 Built a multilingual voicebot for P2P lending using AWS Lex, "
+  }
+}
+
+----- 2025-11-06 11:21:24.187594 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 36.21,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-11-06 11:22:55.976904 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.03,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "ng. Enhanced operational efficiency of \npharmaceutical warehouse workflows. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, \nUnity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git \nSoft  Skills:  Team  Leadership,  Communication,  Research  &  Analysis,  Content  Writing,  Problem-Solving,  UI/UX \nDesign Thinking, Collabor ATHARVA DHURI \nBTech Computer Engineering | NMIMS, Mumbai (Batch 2026) \nPhone: +91 7045336408 | Mail: atharvadhuri06@gmail.com \nLinkedIn: www.linkedin.com/in/atharva-dhuri | GitHub: https://github.com/AtharvaNDhuri  \n\n____________________________________________________________________________ \n\nEducation \nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026) \nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022) \nAtharva Dhuri  \nThakur Vidyamandir, Mumbai | SSC \u2013 95.80% (2020) \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \nDeveloped  a  decentralized  Google  Docs  clone  using  Node"
+  }
+}
+
+----- 2025-11-06 11:23:07.736527 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:23:14.466682 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 36.77,
+      "cross_encoder_%": 0.04
+    },
+    "rag_context": "_________________________________________ \nResearch Paper -  \u201cBrain Tumor Detection using VGG-16 and Segmentation using U-Net architecture\u201d, (July            \n2025, Submitted to ICDTBESDVB 2025 IIT Dhanbad Conference) \nCertification -  Machine Learning Specialization Course by DeepLearning.AI and Stanford Online - 2025 \n\nCORE SKILLS____________________________________________________________ \nTechnical Skills:    \n\nLanguages: Python, Java, JavaScript ,React  \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication,     \n\n     Team Collaboration, Adaptability & Learni RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004                                                                                                                                                              \n\n_______________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.81/4 \nAlpha Junior College of Science and Commerce  \nHSC: 80  \nBombay Cambridge International School  \nIGCSE: 87.5 \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects________________________________________________________________ \nLenDen Voicebot \u2013 2025 \n         \u2022 Built a multilingual voicebot for P2P lending using AWS Lex, "
+  }
+}
+
+----- 2025-11-06 11:23:21.793170 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 36.21,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "ted \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications_________________________________________________ \nICCSCE Publication (May 2025) \u2013 \u201cSecuring the Software Development Lifecycle (SDLC) in Cloud \nEnvironments: A DevSecOps Perspective\u201d, presented at International Conference on Computer Science \nand Communication Engineering. \nUdemy  Artificial  Intelligence  A-Z  (October,  2024)  \u2013  Covered  AI  fundamentals,  Q-learning, \nintelligent agent development, deep learning, generative AI, and large language models. \n\nCORESKILLS____________________________________________________________ \nTechnical Skills \nPython, Java, HTML, CSS, JavaScript, C++, AutoCAD, MATLAB, PostgreSQL, Spring Boot, Spring Integration, REST and \nCRUD APIs, Visual Studio, Kapwing \nSoft Skills \nE YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation____________________________________________________________________________ \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai  \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects__________________________________________________________________ \nCollaborative Document Editing Platform (Colab Doc) - April, 2025  \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile a"
+  }
+}
+
+----- 2025-11-06 11:31:52.006910 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.03,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "ng. Enhanced operational efficiency of \npharmaceutical warehouse workflows. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, \nUnity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git \nSoft  Skills:  Team  Leadership,  Communication,  Research  &  Analysis,  Content  Writing,  Problem-Solving,  UI/UX \nDesign Thinking, Collabor ATHARVA DHURI \nBTech Computer Engineering | NMIMS, Mumbai (Batch 2026) \nPhone: +91 7045336408 | Mail: atharvadhuri06@gmail.com \nLinkedIn: www.linkedin.com/in/atharva-dhuri | GitHub: https://github.com/AtharvaNDhuri  \n\n____________________________________________________________________________ \n\nEducation \nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026) \nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022) \nAtharva Dhuri  \nThakur Vidyamandir, Mumbai | SSC \u2013 95.80% (2020) \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \nDeveloped  a  decentralized  Google  Docs  clone  using  Node"
+  }
+}
+
+----- 2025-11-06 11:32:07.121365 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:32:12.743700 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 36.77,
+      "cross_encoder_%": 0.04
+    },
+    "rag_context": "_________________________________________ \nResearch Paper -  \u201cBrain Tumor Detection using VGG-16 and Segmentation using U-Net architecture\u201d, (July            \n2025, Submitted to ICDTBESDVB 2025 IIT Dhanbad Conference) \nCertification -  Machine Learning Specialization Course by DeepLearning.AI and Stanford Online - 2025 \n\nCORE SKILLS____________________________________________________________ \nTechnical Skills:    \n\nLanguages: Python, Java, JavaScript ,React  \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication,     \n\n     Team Collaboration, Adaptability & Learni RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004                                                                                                                                                              \n\n_______________________________________________________________________ \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering  \nCGPA: 3.81/4 \nAlpha Junior College of Science and Commerce  \nHSC: 80  \nBombay Cambridge International School  \nIGCSE: 87.5 \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects________________________________________________________________ \nLenDen Voicebot \u2013 2025 \n         \u2022 Built a multilingual voicebot for P2P lending using AWS Lex, "
+  }
+}
+
+----- 2025-11-06 11:32:19.658300 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 38.66,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects \nCollaborative Document Editing Platform (Colab Doc) - April, 2025 \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile app integrating EasyOCR and Gemini LLM to extract, annotate, and provide multilingual \nsummaries of medicine details, reducing manual lookup time by ~40%. \nYash Narayan \nPothole Detection using YOLOv8 - November, 2024 \nBuilt a real-time object de  \n\u2022 Played a key role in integrating language understanding capabilities into end-to-end AI systems. \nHindustan Petroleum Corporation Limited, Mumbai (May-July, 2024) \nFullstack Developer Intern \n\u2022 Developed a REST API using Spring Boot for internal audit systems. \n\u2022 Designed and implemented an internal form-based application to streamline auditing processes. \n\u2022 Optimized data flow and backend operations via efficient CRUD operations \nVipla Foundation, Mumbai (May\u2013June 2023) \nCommunity Volunteer \n\u2022 Volunteered in hearing screening camps, managed registrations, created case study videos, and supported \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications \nICCSCE Publi"
+  }
+}
+
+----- 2025-11-06 11:32:57.873064 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.03,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "ng. Enhanced operational efficiency of \npharmaceutical warehouse workflows. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, \nUnity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git \nSoft  Skills:  Team  Leadership,  Communication,  Research  &  Analysis,  Content  Writing,  Problem-Solving,  UI/UX \nDesign Thinking, Collabor ATHARVA DHURI \nBTech Computer Engineering | NMIMS, Mumbai (Batch 2026) \nPhone: +91 7045336408 | Mail: atharvadhuri06@gmail.com \nLinkedIn: www.linkedin.com/in/atharva-dhuri | GitHub: https://github.com/AtharvaNDhuri  \n\n____________________________________________________________________________ \n\nEducation \nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026) \nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022) \nAtharva Dhuri  \nThakur Vidyamandir, Mumbai | SSC \u2013 95.80% (2020) \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \nDeveloped  a  decentralized  Google  Docs  clone  using  Node"
+  }
+}
+
+----- 2025-11-06 11:33:08.873274 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:33:17.645775 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 38.66,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects \nCollaborative Document Editing Platform (Colab Doc) - April, 2025 \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile app integrating EasyOCR and Gemini LLM to extract, annotate, and provide multilingual \nsummaries of medicine details, reducing manual lookup time by ~40%. \nYash Narayan \nPothole Detection using YOLOv8 - November, 2024 \nBuilt a real-time object de  \n\u2022 Played a key role in integrating language understanding capabilities into end-to-end AI systems. \nHindustan Petroleum Corporation Limited, Mumbai (May-July, 2024) \nFullstack Developer Intern \n\u2022 Developed a REST API using Spring Boot for internal audit systems. \n\u2022 Designed and implemented an internal form-based application to streamline auditing processes. \n\u2022 Optimized data flow and backend operations via efficient CRUD operations \nVipla Foundation, Mumbai (May\u2013June 2023) \nCommunity Volunteer \n\u2022 Volunteered in hearing screening camps, managed registrations, created case study videos, and supported \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications \nICCSCE Publi"
+  }
+}
+
+----- 2025-11-06 11:37:05.911461 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.03,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "ng. Enhanced operational efficiency of \npharmaceutical warehouse workflows. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, \nUnity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git \nSoft  Skills:  Team  Leadership,  Communication,  Research  &  Analysis,  Content  Writing,  Problem-Solving,  UI/UX \nDesign Thinking, Collabor ATHARVA DHURI \nBTech Computer Engineering | NMIMS, Mumbai (Batch 2026) \nPhone: +91 7045336408 | Mail: atharvadhuri06@gmail.com \nLinkedIn: www.linkedin.com/in/atharva-dhuri | GitHub: https://github.com/AtharvaNDhuri  \n\n____________________________________________________________________________ \n\nEducation \nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026) \nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022) \nAtharva Dhuri  \nThakur Vidyamandir, Mumbai | SSC \u2013 95.80% (2020) \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \nDeveloped  a  decentralized  Google  Docs  clone  using  Node"
+  }
+}
+
+----- 2025-11-06 11:37:16.603115 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:37:26.732591 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 33.77,
+      "cross_encoder_%": 9.69
+    },
+    "rag_context": "ython, Java, JavaScript ,React \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication, \n\nTeam Collaboration, Adaptability & Learning Agility, Project Management \n\nAchievements and Positions of Responsibility \n\n\u2022 \n\nTwo-time Semi-Finalists in Datathon (Data Science Flagship Event) in 2022 and 2024 \n\n \n \n \n \n \n \n  \n \n \n \n \n \n\f ing OCR and fuzzy text matching to identify \n\nmedicines from packaging scans. \n\n\u2022  Achieved 85% accuracy in detecting medicines from low-quality images. \n\u2022 \n\nTech: Python (Flask), Paddle OCR, Android Studio, React. \n\nBrain Tumor Detection and Segmentation- 2024 \n\n\u2022  Built a deep learning system using VGG-16 (classification) and U-Net (segmentation) to automate \n\n\u2022 \n\ntumor detection in MRI scans. \nTrained models on a Kaggle dataset (253 images), achieving 83.33% accuracy (VGG-16) \nand 91.68% (U-Net) for precise tumor localization. \n\n\u2022  Research paper submitted to ICDTBESDVB 2025 (IIT Dhanbad). \n\u2022 \n\nTools: Python, TensorFlow, Keras, OpenCV. \n\nLoan Approval Prediction System- 2024 \n\n\u2022 Developed a machine learning-based web application to predict loan approval outcomes using applicant \nfinanci RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004 \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \n"
+  }
+}
+
+----- 2025-11-06 11:37:39.451178 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 38.66,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects \nCollaborative Document Editing Platform (Colab Doc) - April, 2025 \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile app integrating EasyOCR and Gemini LLM to extract, annotate, and provide multilingual \nsummaries of medicine details, reducing manual lookup time by ~40%. \nYash Narayan \nPothole Detection using YOLOv8 - November, 2024 \nBuilt a real-time object de  \n\u2022 Played a key role in integrating language understanding capabilities into end-to-end AI systems. \nHindustan Petroleum Corporation Limited, Mumbai (May-July, 2024) \nFullstack Developer Intern \n\u2022 Developed a REST API using Spring Boot for internal audit systems. \n\u2022 Designed and implemented an internal form-based application to streamline auditing processes. \n\u2022 Optimized data flow and backend operations via efficient CRUD operations \nVipla Foundation, Mumbai (May\u2013June 2023) \nCommunity Volunteer \n\u2022 Volunteered in hearing screening camps, managed registrations, created case study videos, and supported \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications \nICCSCE Publi"
+  }
+}
+
+----- 2025-11-06 11:44:21.800632 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.03,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "ng. Enhanced operational efficiency of \npharmaceutical warehouse workflows. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, \nUnity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git \nSoft  Skills:  Team  Leadership,  Communication,  Research  &  Analysis,  Content  Writing,  Problem-Solving,  UI/UX \nDesign Thinking, Collabor ATHARVA DHURI \nBTech Computer Engineering | NMIMS, Mumbai (Batch 2026) \nPhone: +91 7045336408 | Mail: atharvadhuri06@gmail.com \nLinkedIn: www.linkedin.com/in/atharva-dhuri | GitHub: https://github.com/AtharvaNDhuri  \n\n____________________________________________________________________________ \n\nEducation \nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026) \nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022) \nAtharva Dhuri  \nThakur Vidyamandir, Mumbai | SSC \u2013 95.80% (2020) \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \nDeveloped  a  decentralized  Google  Docs  clone  using  Node"
+  }
+}
+
+----- 2025-11-06 11:44:42.351868 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 11:44:54.275173 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.\n",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 38.66,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects \nCollaborative Document Editing Platform (Colab Doc) - April, 2025 \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile app integrating EasyOCR and Gemini LLM to extract, annotate, and provide multilingual \nsummaries of medicine details, reducing manual lookup time by ~40%. \nYash Narayan \nPothole Detection using YOLOv8 - November, 2024 \nBuilt a real-time object de  \n\u2022 Played a key role in integrating language understanding capabilities into end-to-end AI systems. \nHindustan Petroleum Corporation Limited, Mumbai (May-July, 2024) \nFullstack Developer Intern \n\u2022 Developed a REST API using Spring Boot for internal audit systems. \n\u2022 Designed and implemented an internal form-based application to streamline auditing processes. \n\u2022 Optimized data flow and backend operations via efficient CRUD operations \nVipla Foundation, Mumbai (May\u2013June 2023) \nCommunity Volunteer \n\u2022 Volunteered in hearing screening camps, managed registrations, created case study videos, and supported \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications \nICCSCE Publi"
+  }
+}
+
+----- 2025-11-06 12:39:10.202764 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python, sql",
+      "skills_coverage_%": 22.2,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 33.03,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "ng. Enhanced operational efficiency of \npharmaceutical warehouse workflows. \n\nCertifications & Publications__________________________________________________ \nResearch  Paper  \u2013  \u201cSecuring the  Software  Development  Lifecycle  (SDLC)  in  Cloud  Environments:  A  DevSecOps \nPerspective\u201d, presented at International Conference on Computer Science and Communication Engineering, May \n2025. \n\nCORE SKILLS_______________________________________________________________ \nTechnical Skills: Python, OpenCV, MediaPipe, Firebase, Flask, Java, Kotlin, HTML, CSS, JavaScript, Android Studio, \nUnity XR, Google Earth Engine, Node.js, MongoDB, Quill.js, EasyOCR, Git \nSoft  Skills:  Team  Leadership,  Communication,  Research  &  Analysis,  Content  Writing,  Problem-Solving,  UI/UX \nDesign Thinking, Collabor ATHARVA DHURI \nBTech Computer Engineering | NMIMS, Mumbai (Batch 2026) \nPhone: +91 7045336408 | Mail: atharvadhuri06@gmail.com \nLinkedIn: www.linkedin.com/in/atharva-dhuri | GitHub: https://github.com/AtharvaNDhuri  \n\n____________________________________________________________________________ \n\nEducation \nNMIMS University \u2013 MPSTME, Mumbai | CGPA: 3.30/4.0 (2022 \u2013 2026) \nPace Junior Science College, Mumbai | HSC \u2013 75.17% (2022) \nAtharva Dhuri  \nThakur Vidyamandir, Mumbai | SSC \u2013 95.80% (2020) \n\nProjects__________________________________________________________________ \n\u2022 CollabDoc \u2013 Real-Time Collaborative Document Editor \u2013 2025 \nDeveloped  a  decentralized  Google  Docs  clone  using  Node"
+  }
+}
+
+----- 2025-11-06 12:39:34.135738 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "python",
+      "skills_coverage_%": 11.1,
+      "base_assessment": "Weak",
+      "bi_encoder_%": 24.22,
+      "cross_encoder_%": 0.0
+    },
+    "rag_context": "rnational Conference on Computer Science and Communication Engineering, May 2025. \nCertified in Cybersecurity - ISC2 certification for Cybersecurity fundamentals  \nPrompt Engineering - Course by Vanderbilt University on Coursera teaching methods and techniques to efficiently use LLMs. \n\nCore Skills_____________________________________________________________________ \nTechnical Skills - C#, C++, Python, Unity, Game Development, XR/VR Development, AI/ML, Computer Vision, Web Development \n(HTML, CSS, JavaScript), Git/GitHub, Debugging, Video Editing (Camtasia), Gamified Learning \nSoft Skills - Team Leadership, Communication, Story & Level Design, Technical Documentation, Project Management, Collaboration, \nContent Writing, Creative Problem Solving, Technical Documentation, Adaptability \n\nAchi \nwith cross-functional teams to ensure technical feasibility and seamless implementation of gamified projects. Acquired hands-on \nexperience in prototyping innovative e-learning solutions, optimizing content delivery, and enhancing user engagement. \nVolunteer at Indian Development Foundation (IDF): June 9 \u2013 July 8, 2023 \nConducted and participated in food donation drives for leprosy-affected patients and their families, demonstrating team effort and \na commitment to social good. I wrote a thesis on methods of improving educational quality for underprivileged children. \n\nCertifications & Publications____________________________________________________ \nResearch Paper - \u201cSecuring the Software"
+  }
+}
+
+----- 2025-11-06 12:39:49.172740 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, machine learning, nlp, pandas, python, scikit-learn",
+      "skills_coverage_%": 66.7,
+      "base_assessment": "Strong",
+      "bi_encoder_%": 33.77,
+      "cross_encoder_%": 9.69
+    },
+    "rag_context": "ython, Java, JavaScript ,React \n\n\u2022 \n\u2022  ML/NLP: Scikit-learn, TensorFlow, Keras, PaddleOCR, Claude API , Spacy \n\u2022  Visualization: Excel, Power BI, Streamlit \n\u2022 \n\nTools: Jupyter, VS Code, Git, Google Colab , Postman \n\nSoft Skills : Problem-Solving & Analytical Thinking, Time Management & Organization, Communication, \n\nTeam Collaboration, Adaptability & Learning Agility, Project Management \n\nAchievements and Positions of Responsibility \n\n\u2022 \n\nTwo-time Semi-Finalists in Datathon (Data Science Flagship Event) in 2022 and 2024 \n\n \n \n \n \n \n \n  \n \n \n \n \n \n\f ing OCR and fuzzy text matching to identify \n\nmedicines from packaging scans. \n\n\u2022  Achieved 85% accuracy in detecting medicines from low-quality images. \n\u2022 \n\nTech: Python (Flask), Paddle OCR, Android Studio, React. \n\nBrain Tumor Detection and Segmentation- 2024 \n\n\u2022  Built a deep learning system using VGG-16 (classification) and U-Net (segmentation) to automate \n\n\u2022 \n\ntumor detection in MRI scans. \nTrained models on a Kaggle dataset (253 images), achieving 83.33% accuracy (VGG-16) \nand 91.68% (U-Net) for precise tumor localization. \n\n\u2022  Research paper submitted to ICDTBESDVB 2025 (IIT Dhanbad). \n\u2022 \n\nTools: Python, TensorFlow, Keras, OpenCV. \n\nLoan Approval Prediction System- 2024 \n\n\u2022 Developed a machine learning-based web application to predict loan approval outcomes using applicant \nfinanci RUDRA SINGH \nBTech Computer Engineering 2026 \nDate of Birth: 29/09/2004 \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \n"
+  }
+}
+
+----- 2025-11-06 12:40:04.087046 -----
+{
+  "backend": "ollama",
+  "payload": {
+    "job_description": "We need a Data Scientist proficient in Python, SQL, and Machine Learning for predictive modeling, data cleaning, and analytics. Experience with Pandas, NumPy, Scikit-learn, and visualization tools like Matplotlib/Seaborn preferred.",
+    "rule_features": {
+      "matching_skills": "deep learning, python, sql",
+      "skills_coverage_%": 33.3,
+      "base_assessment": "Moderate",
+      "bi_encoder_%": 38.66,
+      "cross_encoder_%": 0.01
+    },
+    "rag_context": "YASH NARAYAN \nBTech Computer Engineering 2026 \nDate of Birth: 18/12/2003 \n\nEducation \nMPSTME, NMIMS University \nB. Tech in Computer Engineering \nCGPA: 3.69/4.00 \nR N PODAR SCHOOL, Mumbai \nCBSE: 90.2% \nR N PODAR SCHOOL, Mumbai \nCBSE: 93.8% \n\n2022 - 2026 \n\n2022 \n\n2020 \n\nProjects \nCollaborative Document Editing Platform (Colab Doc) - April, 2025 \nDesigned a real-time collaborative document editor with multi-user support and autosave, inspired by tools like \nGoogle Docs. \nMediScan \u2013 AI-Based Medicine Information Extractor \u2013 April, 2025 \nBuilt a mobile app integrating EasyOCR and Gemini LLM to extract, annotate, and provide multilingual \nsummaries of medicine details, reducing manual lookup time by ~40%. \nYash Narayan \nPothole Detection using YOLOv8 - November, 2024 \nBuilt a real-time object de  \n\u2022 Played a key role in integrating language understanding capabilities into end-to-end AI systems. \nHindustan Petroleum Corporation Limited, Mumbai (May-July, 2024) \nFullstack Developer Intern \n\u2022 Developed a REST API using Spring Boot for internal audit systems. \n\u2022 Designed and implemented an internal form-based application to streamline auditing processes. \n\u2022 Optimized data flow and backend operations via efficient CRUD operations \nVipla Foundation, Mumbai (May\u2013June 2023) \nCommunity Volunteer \n\u2022 Volunteered in hearing screening camps, managed registrations, created case study videos, and supported \ntherapy preparation for child rehabilitation. \n\nCertifications &Publications \nICCSCE Publi"
+  }
+}

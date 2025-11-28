@@ -1,0 +1,11 @@
+pandas
+pdfminer.six
+python-docx
+spacy
+rapidfuzz
+sentence-transformers
+torch
+ollama
+tiktoken
+gradio
+qdrant-client
